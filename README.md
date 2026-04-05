@@ -39,7 +39,7 @@ DASHSCOPE_MODEL=你的微调模型ID
 
 3. 微信客户端版本要求
 - 需要 **3.9.11.17** 版本的微信PC客户端
-- 下载地址：搜索 "微信 3.9.11.17"
+- 下载地址：https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.12.57/WeChatSetup-3.9.12.57.exe
 
 ## 运行
 
