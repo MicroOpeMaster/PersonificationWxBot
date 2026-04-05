@@ -79,9 +79,19 @@ AiWechat/
 └── start.bat          # Windows启动脚本
 ```
 
+## 导出微信聊天记录
+
+使用 [WeFlow](https://github.com/hicccc77/WeFlow) 导出微信聊天记录：
+
+1. 下载并安装 WeFlow
+2. 打开微信PC客户端，登录账号
+3. 运行 WeFlow，选择要导出的聊天
+4. 导出格式选择 JSON
+5. 将导出的文件放入 `data/raw/` 目录
+
 ## 模型微调
 
-1. 准备聊天记录数据（JSON格式）
+1. 将导出的聊天记录放入 `data/raw/` 目录
 2. 运行数据处理脚本
 ```bash
 python scripts/process_data.py
