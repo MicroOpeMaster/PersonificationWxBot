@@ -1,0 +1,16 @@
+# 核心依赖
+pandas>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# 阿里云百炼SDK
+dashscope>=1.14.0
+
+# 微信自动化
+itchat-uos>=1.4.1
+wxauto>=3.9.0  # 需要微信PC客户端 3.9.11.17 版本
+
+# 数据处理
+tqdm>=4.65.0
+jieba>=0.42.1
+ntwork
