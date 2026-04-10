@@ -7,10 +7,14 @@ python-dotenv>=1.0.0
 dashscope>=1.14.0
 
 # 微信自动化
-itchat-uos>=1.4.1
-wxauto>=3.9.0  # 需要微信PC客户端 3.9.11.17 版本
+pyautogui>=0.9.54
+pyperclip>=1.8.0
+pywin32>=305
+wxauto>=3.9.11
+
+# OCR识别
+rapidocr_onnxruntime>=1.2.0
 
 # 数据处理
 tqdm>=4.65.0
 jieba>=0.42.1
-ntwork
