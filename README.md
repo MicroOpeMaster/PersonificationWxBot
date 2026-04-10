@@ -82,7 +82,6 @@ PersonificationWxBot/
 └── requirements.txt       # Python 依赖
 ```
 
-
 ## 模型微调
 
 1. 使用 [WeFlow](https://github.com/hicccc77/WeFlow) 导出微信聊天记录到 `data/raw/`
