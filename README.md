@@ -67,7 +67,7 @@ python main.py
 ## 项目结构
 
 ```
-AiWechat/
+PersonificationWxBot/
 ├── main.py                # 主入口
 ├── src/
 │   ├── wxauto_bot.py      # 微信机器人核心模块
