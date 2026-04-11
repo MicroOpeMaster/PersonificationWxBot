@@ -151,7 +151,6 @@ python scripts/process_data.py
 
 ## 注意事项
 
-- 微信自动回复有封号风险，建议使用小号测试
 - wxauto 需要 Windows 系统和微信PC客户端
 - 微信客户端窗口需要保持可见状态
 - 参考: [uiautomation](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows)
